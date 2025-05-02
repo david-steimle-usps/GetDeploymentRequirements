@@ -14,7 +14,7 @@ Specifies the site code of the Configuration Manager site to connect to. This pa
 This command retrieves deployment requirements for all applications in the Configuration Manager site with the site code "ABC" and outputs the results as a structured report.
 
 .LINK
-
+https://github.com/david-steimle-usps/GetDeploymentRequirements
 #>
 [CmdletBinding()]
 param(
